@@ -1,3 +1,3 @@
 # data_science
-this repo basically comprises of all the machine learniing codes that i did and i post regularly the work that i do.
+this repo basically comprises of all the machine learning codes that is necessary for the people who want a good knowledge of data science.
 okkk
