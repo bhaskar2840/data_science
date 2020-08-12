@@ -1,3 +1,10 @@
-# data_science
-this repo basically comprises of all the machine learning codes that is necessary for the people who want a good knowledge of data science.
-okkk
+# 😁😁 data_science
+
+### ✔✔Motivation 
+This is a comprehensive guide for beginners who are trying in the field of Data Science.
+This repo will help them learn the data science basics.
+
+### 🚀Topics covered
+
+-[pandas]()
+
