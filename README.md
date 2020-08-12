@@ -6,5 +6,7 @@ This repo will help them learn the data science basics.
 
 ### 🚀Topics covered
 
--[pandas]()
+-[pandas](pandas.ipynb)
+-[seaborn](seaborn.ipynb)
+-[matplotlib](matplotlib.ipynb)
 
