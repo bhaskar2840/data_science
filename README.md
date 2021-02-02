@@ -9,5 +9,6 @@ This repo will help them learn the data science basics.
 - [pandas](pandas.ipynb)
 - [seaborn](seaborn.ipynb)
 - [matplotlib](matplotlib.ipynb)
+- [opencv](opencv.ipynb)
 ---
 
