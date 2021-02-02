@@ -10,5 +10,6 @@ This repo will help them learn the data science basics.
 - [seaborn](seaborn.ipynb)
 - [matplotlib](matplotlib.ipynb)
 - [opencv](open%20cv.ipynb)
+- [numpy](numpy.ipynb)
 ---
 
